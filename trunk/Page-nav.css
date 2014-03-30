@@ -1,0 +1,6 @@
+#blog-pager-older-link a,#blog-pager-newer-link a,a.home-link{width:80px;text-align:center;display:inline-block;color:#fff;font:bold 12px Arial;text-transform:none;margin:0;padding:5px 5px;background:#555;border:1px solid #111}
+.blog-pager,#blog-pager{clear:both;font:bold 12px Arial;text-align:center;padding:15px 10px}
+.showpageNum a,.showpage a{background:#fff;text-decoration:none;white-space:nowrap;color:#222;margin:10px 3px;padding:5px 10px;border:1px solid #999}
+.showpageNum a:hover,.showpage a:hover{color:#fff;text-decoration:none;background-color:#444;border:1px solid #000}
+.showpageOf{display:none;margin:0}
+.showpagePoint{color:#fff;text-decoration:none;background-color:#444;font-size:12px;margin:10px 3px;padding:5px 10px;border:1px solid #000}
